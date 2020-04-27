@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.3f62ac65.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3f62ac65.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.51ea31ed.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.51ea31ed.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.287bb16e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.287bb16e.js.map",
     "static/js/2.d27da7a9.chunk.js": "/portfolio/static/js/2.d27da7a9.chunk.js",
     "static/js/2.d27da7a9.chunk.js.map": "/portfolio/static/js/2.d27da7a9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.78bf3f99fae123edc3c5cacbfb81288a.js": "/portfolio/precache-manifest.78bf3f99fae123edc3c5cacbfb81288a.js",
+    "precache-manifest.9c210318b3a3d3b6e2ce1319172fad0c.js": "/portfolio/precache-manifest.9c210318b3a3d3b6e2ce1319172fad0c.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.d27da7a9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d27da7a9.chunk.js.LICENSE.txt",
     "static/media/educationGreen.png": "/portfolio/static/media/educationGreen.70ff20f8.png",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.287bb16e.js",
     "static/js/2.d27da7a9.chunk.js",
-    "static/js/main.3f62ac65.chunk.js"
+    "static/js/main.51ea31ed.chunk.js"
   ]
 }
