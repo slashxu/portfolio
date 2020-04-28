@@ -9,9 +9,9 @@ import { NavLink } from 'react-router-dom'
 const Header = () => (
   <Row>  
     <Navbar className="blue lighten-3">
-      <li><NavLink to="/portfolio">Home</NavLink></li>
-      <li><NavLink to="experience">Experience</NavLink></li>
-      <li><NavLink to="education">Education</NavLink></li>
+      <li><NavLink to="/">Home</NavLink></li>
+      <li><NavLink to="/experience">Experience</NavLink></li>
+      <li><NavLink to="/education">Education</NavLink></li>
       {/* <li><NavLink to="contact">Contact</NavLink></li> */}
     </Navbar>
   </Row>

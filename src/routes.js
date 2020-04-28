@@ -1,5 +1,5 @@
 import React from  'react';
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch, Redirect } from 'react-router-dom';
 import { Container } from 'react-materialize';
 
 import Home from './pages/home';
@@ -11,7 +11,7 @@ const Routes = () => (
   <main>
     <Container>
       <Switch>
-        <Route exact path='/portfolio' component={Home}/>
+        <Route exact path='/portfolio' render={() => <Redirect to="/" />} component={Home}/>
         <Route path='/experience' component={Experience}/>
         <Route path='/education' component={Education}/>
         <Route path='/contact' component={Contact}/>
