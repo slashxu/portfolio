@@ -22,7 +22,7 @@ const UserProfile = () => (
         <p className="blue lighten-3 white-text">Developer</p>
       </Row>
       <Row className="center-align">
-        <a href="javascript:window.open('https://www.linkedin.com/in/sergio-jose-da-silva-junior-1695a430', '_blank')">
+        <a href="javascript:window.open('https://www.linkedin.com/in/sergio-jose-da-silva-junior-1695a430/', '_blank')">
           <img src={linkedin} className="responsive-img" width="60" title="Linkedin" />
         </a>
         <a href="javascript:window.open('https://github.com/slashxu', '_blank')">
@@ -31,7 +31,7 @@ const UserProfile = () => (
         <a href="skype:echo123?add">
           <img src={skype} className="responsive-img" width="60" title="sergio.jose.da.silva.junior"/>
         </a>
-        <a href="javascript:window.open('https://web.whatsapp.com/', '_blank')">
+        <a href="javascript:window.open('https://api.whatsapp.com/send?phone=5511984091989&text=Gostaria%20de%20entrar%20em%20contato%20sobre%20um%20trabalho', '_blank')">
           <img src={whatsapp} className="responsive-img" width="60" title="11-984091989" />
         </a>        
         <a href="mailto:sergiojsjr@yahoo.com.br?" target="_top">
