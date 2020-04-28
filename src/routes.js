@@ -11,7 +11,7 @@ const Routes = () => (
   <main>
     <Container>
       <Switch>
-        <Route exact path='/portfolio' render={() => <Redirect to="/" />} component={Home}/>
+        <Route exact path='/' component={Home}/>
         <Route path='/experience' component={Experience}/>
         <Route path='/education' component={Education}/>
         <Route path='/contact' component={Contact}/>
