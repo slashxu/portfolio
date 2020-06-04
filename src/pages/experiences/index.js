@@ -21,7 +21,7 @@ const Experiences = () => (
         {/* Passando os parâmetros title, company, description e avatar para o component Experience */}
         <Experience title="Developer"
                     company="Soulcore 2018 a 2020"
-                    description="Atuando como freelancer no desenvolvimento (SIG) Sistema de informações Geográficas usando as linguagens: HTML, CSS, Bootstrap, JavaScript, GitLab, PostgreSQL, PostGIS, GeoServer e Docker.
+                    description="Atuando como freelancer no desenvolvimento (SIG) Sistema de Informações Geográficas usando as linguagens: HTML, CSS, Bootstrap, JavaScript, GitLab, PostgreSQL, PostGIS, GeoServer e Docker.
                     Publicação de mapas e styles usando GeoServer;
                     Geração de scripts geo-espaciais usando PostgresSQL e PostGIS;
                     Implantação em cliente usando Docker."

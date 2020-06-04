@@ -13,7 +13,7 @@ const Header = () => (
       <li><NavLink to="/experience">Experience</NavLink></li>
       <li><NavLink to="/education">Education</NavLink></li>
       <li><NavLink to="/skills">Skills</NavLink></li>
-      {/* <li><NavLink to="contact">Contact</NavLink></li> */}
+      <li><a href="javascript:window.open('https://resume.io/r/qCGGThAKU')">Resume</a></li>
     </Navbar>
   </Row>
 );
