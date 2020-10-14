@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.1e0cb34b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1e0cb34b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e6f9a487.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e6f9a487.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.287bb16e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.287bb16e.js.map",
     "static/js/2.0de396ee.chunk.js": "/portfolio/static/js/2.0de396ee.chunk.js",
     "static/js/2.0de396ee.chunk.js.map": "/portfolio/static/js/2.0de396ee.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.2ef255431cf3068b650b0244d369b05c.js": "/portfolio/precache-manifest.2ef255431cf3068b650b0244d369b05c.js",
+    "precache-manifest.da6343323bb19a67e420917ebb5a42da.js": "/portfolio/precache-manifest.da6343323bb19a67e420917ebb5a42da.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.0de396ee.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0de396ee.chunk.js.LICENSE.txt",
     "static/media/dbrix.png": "/portfolio/static/media/dbrix.39c7db75.png",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.287bb16e.js",
     "static/js/2.0de396ee.chunk.js",
-    "static/js/main.1e0cb34b.chunk.js"
+    "static/js/main.e6f9a487.chunk.js"
   ]
 }
