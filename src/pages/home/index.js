@@ -6,6 +6,7 @@ import { Row, Col, Card } from 'react-materialize';
 import UserProfile from '../../components/user_profile/user_profile'
 
 import Rogai from '../../assets/rogai.png';
+import Dbrix from '../../assets/dbrix.png';
 
 const Home = () => (
   <Row>
@@ -36,6 +37,16 @@ Conhecimentos em PHP, HTML, JQUERY, C Sharp, ACCESS, MySQL, PostgreSQL, SQL Serv
           <div class="col s10">
               <span class="black-text">
                 Aplicativo para android chamado "<b>Rogai</b>", desenvolvido na linguagem Java Nativo usando Android Studio.
+              </span>
+            </div>
+            <div class="col s2">
+          <a href="javascript:window.open('https://play.google.com/store/apps/details?id=com.soliwork.dbrix', '_blank')">
+            <img src={Dbrix} className="responsive-img" width="60" title="Ir para PlayStore" />
+            </a>
+          </div>
+          <div class="col s10">
+              <span class="black-text">
+                Aplicativo para android chamado "<b>Dbrix</b>", desenvolvido em react-Native.
               </span>
             </div>
             </div>
