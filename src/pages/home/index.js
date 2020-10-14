@@ -38,18 +38,20 @@ Conhecimentos em PHP, HTML, JQUERY, C Sharp, ACCESS, MySQL, PostgreSQL, SQL Serv
               <span class="black-text">
                 Aplicativo para android chamado "<b>Rogai</b>", desenvolvido na linguagem Java Nativo usando Android Studio.
               </span>
-            </div>
-            <div class="col s2">
-          <a href="javascript:window.open('https://play.google.com/store/apps/details?id=com.soliwork.dbrix', '_blank')">
-            <img src={Dbrix} className="responsive-img" width="60" title="Ir para PlayStore" />
-            </a>
+            </div>          
           </div>
-          <div class="col s10">
+          <div class="row valign-wrapper">
+            <div class="col s2">
+              <a href="javascript:window.open('https://play.google.com/store/apps/details?id=com.soliwork.dbrix', '_blank')">
+                <img src={Dbrix} className="responsive-img" width="60" title="Ir para PlayStore" />
+              </a>
+            </div>
+            <div class="col s10">
               <span class="black-text">
-                Aplicativo para android chamado "<b>Dbrix</b>", desenvolvido em react-Native.
+                Aplicativo para android chamado "<b>Dbrix</b>", desenvolvido em React-Native.
               </span>
             </div>
-            </div>
+          </div>
         </Card>
     </Col>
 
