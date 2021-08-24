@@ -17,15 +17,14 @@ const Home = () => (
         <h5 className="subtitle">About Me</h5>
         <Card>
           <div>
-            <p>"Desenvolvendo aplicações a mais de 7 anos, usando linguagens como: C#, Java Nativo, Node.js, React.js e React-Native."</p>
+            <p>"Desenvolvendo aplicações a mais de 7 anos, usando linguagens como: C#, Java, React.js e React-Native."</p>
             <br/>
             <p><b>QUALIFICAÇÕES PESSOAIS</b></p>
-            <p>Facilidade de trabalho em equipe, organizado, empreendedor e em busca de novos desafios. 
-Conhecimentos em PHP, HTML, JQUERY, C Sharp, ACCESS, MySQL, PostgreSQL, SQL Server, GeoServer, Docker, Git, JavaScript, Bootstrap.</p>
-            <p>Desenvolvimento Mobile (Android) usando java ou xamarim.</p>
+            <p>Facilidade de trabalho em Equipe, organizado, empreendedor e em busca de novos desafios. 
+                Conhecimentos em PHP, HTML, Jquery, C Sharp, Access, MySQL, PostgreSQL, Oracle 11G, SQL Server, GeoServer, Docker, Git, JavaScript, Bootstrap, Mobile (Java, React-native e Xamarim).</p>
           </div>
         </Card>
-        <h5 className="subtitle">App Publish</h5>        
+        <h5 className="subtitle">Published App</h5>        
         
         <Card>
         <div class="row valign-wrapper">

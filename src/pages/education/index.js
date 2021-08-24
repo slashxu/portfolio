@@ -32,6 +32,11 @@ const Education = () => (
 
         <h5 className="subtitle">Courses</h5>
         
+        <Educations title="Fabrica de aplicativos"                     
+                    company="2021"
+                    description="React.js e React-Native"
+                    avatar={course_avatar}                    
+        />
         <Educations title="Rockstseat"                     
                     company="2020"
                     description="Node.js, React.js e React-Native"

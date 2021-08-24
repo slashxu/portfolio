@@ -7,6 +7,7 @@ import UserProfile from '../../components/user_profile/user_profile'
 import Experience from '../../components/experience/experience'
 
 import company_avatar from '../../assets/companyBlue.png';
+import company_avatar1 from '../../assets/companyRoxo.png';
 import company_avatar2 from '../../assets/companyGreen.png';
 import company_avatar3 from '../../assets/companyOrange.png';
 
@@ -19,6 +20,14 @@ const Experiences = () => (
         <h5 className="subtitle">Experiences</h5>
         
         {/* Passando os parâmetros title, company, description e avatar para o component Experience */}
+        <Experience title="Analista de desenvolvimento"
+                    company="Cocal Energia Resposável 2020 a atual"
+                    description="Atuando como Fullstack, dando manutenção nos sistemas internos da empresa e criação de novos módulos, usando linguagem Java para front-end e framework SpringBoot para Backend.
+                    Integrações com ODI (Oracle Data Integrator).
+                    Manutenção em aplicativo mobile em Java.
+                    Criação de queries para Sistema de Relatórios em PHP."
+                    avatar={company_avatar2}
+        />
         <Experience title="Developer"
                     company="Soulcore 2018 a 2020"
                     description="Atuando como freelancer no desenvolvimento (SIG) Sistema de Informações Geográficas usando as linguagens: HTML, CSS, Bootstrap, JavaScript, GitLab, PostgreSQL, PostGIS, GeoServer e Docker.
@@ -37,7 +46,7 @@ const Experiences = () => (
                         • SNG – Sistema de notificações de Guarulhos, utilizando as linguagens C Sharp e SQL Server 2008;
                         • SNSBC – Sistema de notificações de São Bernardo do Campo, utilizando as linguagens PHP, HTML, CSS, PostgreSQL e Oracle 11G;
                         • Sistema Mobile: CadImob – Sistema de coletagem de informações de cadastro em campo, desenvolvido na plataforma Android para tablets, utilizando Xamarin (Mono para Android) nas linguagens C Sharp e SQL Server 2008. "
-                    avatar={company_avatar2}                    
+                    avatar={company_avatar3}                    
         />
         <Experience title="Developer"
                     company="Brasil Partners 2010 a 2014"
@@ -50,7 +59,7 @@ const Experiences = () => (
                         • Projetos Web: SIG-Manaus atuando com as linguagens HTML, CSS, Javascript, ArcGis Development e Oracle 11G;
                         • WebSat - atualização cadastral com as linguagens, C sharp, HTML, CSS, JQuery e Oracle 11G;
                         • GLPI - Sistema  Help Desk de cadastros de chamados internos e externos com PHP, HTML,CSS e MySQL."
-                    avatar={company_avatar3}                    
+                    avatar={company_avatar1}                    
         />
         {/* <Experience title="React-Native Developer"
                     company="Twitter"
