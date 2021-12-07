@@ -18,7 +18,7 @@ const UserProfile = () => (
         </Col>
       </Row>
       <Row className="center-align">
-        <h5 >Ségio José da Silva Júnior</h5>
+        <h5 >Sérgio José da Silva Júnior</h5>
         <p className="blue lighten-3 white-text">Developer</p>
       </Row>
       <Row className="center-align">
