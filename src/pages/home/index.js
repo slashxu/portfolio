@@ -35,7 +35,7 @@ const Home = () => (
           </div>
           <div class="col s10">
               <span class="black-text">
-                Aplicativo para android chamado "<b>Rogai</b>", desenvolvido na linguagem Java Nativo usando Android Studio. Obs.: Esta fora do ar, em manutencao..
+                Aplicativo para android chamado "<b>Rogai</b>", desenvolvido na linguagem Java Nativo usando Android Studio. Obs.: Em manutencao..
               </span>
             </div>          
           </div>
@@ -47,7 +47,7 @@ const Home = () => (
             </div>
             <div class="col s10">
               <span class="black-text">
-                Aplicativo para android chamado "<b>Dbrix</b>", desenvolvido em React-Native. Obs.: Esta fora do ar, em manutencao..
+                Aplicativo para android chamado "<b>Dbrix</b>", desenvolvido em React-Native. Obs.: Em manutencao..
               </span>
             </div>
           </div>
