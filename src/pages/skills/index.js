@@ -34,6 +34,10 @@ const Skills = () => (
             <Skill name="JQuery" /> 
           </Chip>
           <Chip>
+            <Skill name="Angular" /> 
+          </Chip>
+          <Chip></Chip>
+          <Chip>
             <Skill name="Android" /> 
           </Chip>
           <Chip>

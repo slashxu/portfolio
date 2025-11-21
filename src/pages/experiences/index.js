@@ -10,6 +10,7 @@ import company_avatar from '../../assets/companyBlue.png';
 import company_avatar1 from '../../assets/companyRoxo.png';
 import company_avatar2 from '../../assets/companyGreen.png';
 import company_avatar3 from '../../assets/companyOrange.png';
+import company_avatar4 from '../../assets/companyBlack.png';
 
 const Experiences = () => (
   <Row>
@@ -20,8 +21,14 @@ const Experiences = () => (
         <h5 className="subtitle">Experiences</h5>
         
         {/* Passando os parâmetros title, company, description e avatar para o component Experience */}
+         <Experience title="Analista de Sistemas e desenvolvimento - Mobile Híbrido"
+                    company="Coopersystem 2022 a presente"
+                    description="Atuando como desenvolvedor no App de Investimentos do banco do Brasil, criando integracao do módulo da Brasilperv feito em React-Native com App Nativo (Java/Kotin), fazendo consumo de Bundles.
+                    Em 2024, comecei atuar como analista no projeto da Plataforma, usando Angular 17 e no app Mobile no módulo da Brasilprev."
+                    avatar={company_avatar4}
+        />
         <Experience title="Analista de desenvolvimento"
-                    company="Cocal Energia Resposável 2020 a atual"
+                    company="Cocal Energia Resposável 2020 a 2022"
                     description="Atuando como Fullstack, dando manutenção nos sistemas internos da empresa e criação de novos módulos, usando linguagem Java para front-end e framework SpringBoot para Backend.
                     Integrações com ODI (Oracle Data Integrator).
                     Manutenção em aplicativo mobile em Java.
